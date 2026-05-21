@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16
+easysoft/zentao:18.3
