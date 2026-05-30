@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2020-08-08T04-50-06Z
+docker.io/radondb/pgpool:4.2.2-debian-10-r1
