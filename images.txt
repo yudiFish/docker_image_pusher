@@ -1,1 +1,1 @@
-docker.io/radondb/pgpool:4.2.2-debian-10-r1
+docker.io/radondb/postgresql-repmgr:11.11.0-debian-r1
