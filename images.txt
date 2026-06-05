@@ -1,1 +1,1 @@
-docker.io/radondb/postgresql-repmgr:11.11.0-debian-r1
+gitlab/gitlab-runner:latest
