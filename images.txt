@@ -1,1 +1,1 @@
-bitnami/postgresql-repmgr:15.4.0-debian-11-r45
+elasticsearch/elasticsearch:9.4.3
