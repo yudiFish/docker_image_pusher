@@ -1,1 +1,1 @@
-elasticsearch/elasticsearch:9.4.3
+docker.elastic.co/elasticsearch/elasticsearch
