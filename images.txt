@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:9.4.3
+node:22-alpine
