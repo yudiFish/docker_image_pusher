@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre
+xhofe/alist:v3.60.0
