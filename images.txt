@@ -1,1 +1,1 @@
-ghcr.io/multica-ai/multica-backend:v0.5.3
+ghcr.io/multica-ai/multica-web:v0.5.3
