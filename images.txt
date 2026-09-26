@@ -1,1 +1,1 @@
-postgres:17.11-alpine
+ghcr.io/multica-ai/multica-backend:v0.5.3
